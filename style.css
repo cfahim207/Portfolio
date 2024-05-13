@@ -1,0 +1,12 @@
+.img-banner {
+  height: 600px;
+}
+
+.banner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-info {
+  color: rgb(0, 85, 255);
+}
